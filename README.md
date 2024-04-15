@@ -4,6 +4,4 @@ In my spare time I’m currently working on:
 - [Turtletoy](https://turtletoy.net): Create your generative art online using a JavaScript Turtle graphics API.
 - [Rijkscollection](https://rijkscollection.net): An immersive exploration of art pieces from the Rijksmuseum Amsterdam.
 
-You can reach me using [E-mail](reinder@infi.nl), or on [Twitter](https://twitter.com/ReinderNijhoff), [Mastodo](https://mastodon.social/@reindernijhoff) or [Bluesky](https://bsky.app/profile/reindernijhoff.net).
-
 If you want, you can [buy me a coffee](https://www.buymeacoffee.com/reindernijhoff). Donations are highly appreciated and will be used to cover hosting costs and to buy (more) coffee.
