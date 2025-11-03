@@ -5,4 +5,4 @@ In my spare time I’m currently working on:
 - [Rijkscollection](https://rijkscollection.net): An immersive exploration of art pieces from the Rijksmuseum Amsterdam.
 - [The RenderQueue](https://renderqueue.dev): A collection of creative coding experiments by [Johan Holwerda](https://github.com/johanholwerda) and me.
 
-If you want, you can [buy me a coffee](https://www.buymeacoffee.com/reindernijhoff). Donations are highly appreciated and will be used to cover hosting costs and to buy (more) coffee.
+If you want, you can [sponsor me](https://github.com/sponsors/reindernijhoff), or [buy me a coffee](https://www.buymeacoffee.com/reindernijhoff). Donations are highly appreciated and will be used to cover hosting costs and to buy (more) coffee.
