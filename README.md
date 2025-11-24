@@ -1,4 +1,8 @@
-In my spare time I’m currently working on:
+Hello, I’m Reinder. 
+
+I’m a creative coder based in the Netherlands. In my spare time, I build platforms for generative art (like Turtletoy) and other digital experiments.
+
+I’m currently working on:
 - [Dittytoy](https://dittytoy.net): Create your generative music online using a Javascript API.
 - [OneShader](https://oneshader.net): One fragment shader and your imagination.
 - [Turtletoy](https://turtletoy.net): Create your generative art online using a JavaScript Turtle graphics API.
